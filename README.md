@@ -1,6 +1,7 @@
 # Scaling properties of scale-free networks in degree-thresholding renormalization flows 
 
 Author: Dan Chen, Defu Cai, and Housheng Su
+
 We present the python sample code, and the computer configuration is Intel(R) Core(TM) i5-11400@2.60GHZ.  Before using this sample code, make sure you have the following packages installed on your computer:
 
 ```python
