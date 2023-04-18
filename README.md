@@ -17,3 +17,5 @@ Latex
 
 Here, we present only part of the sample code and show the results under a single implementation. In our paper, we present the statistical average results of multiple independent samples.
 
+# Citation:
+D. Chen, D. Cai and H. Su, "Scaling properties of scale-free networks in degree-thresholding renormalization flows," in IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2023.3266381.
